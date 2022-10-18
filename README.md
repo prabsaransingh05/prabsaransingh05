@@ -29,7 +29,7 @@ I'm a Computer Science Undergrad. I'm passionate about technology and I love to 
 
 <ul style="list-style-type: none;">
 <li>
-💻 Coding in Javascript and python
+💻 Coding in Java and Python
 </li>
 <li>
 🔒 I am currently learning about the Artificial Intelligence, Machine Learning, And Artificial Neural Networks.
