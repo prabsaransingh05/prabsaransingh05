@@ -24,7 +24,7 @@ Lets Connect.
 <h2 align="center"> 👨‍💻 WhoAmI</h2>
 <p align="center">
 
-I'm a Computer Science Undergrad. I'm passionate about technology and I love to learn about technology. Iam interested in Artificial Intelligence and looking forward to do specialization in it. I am an instant go getter in multiple tasking challenges. I always try to be innovative & creative in my work with skills of out of box thinking.
+I'm a Computer Science Undergrad. I'm passionate about technology and I love to learn about technology. I am interested in Artificial Intelligence and looking forward to do specialization in it. I am an instant go getter in multiple tasking challenges. I always try to be innovative & creative in my work with skills of out of box thinking.
 
 
 <ul style="list-style-type: none;">
